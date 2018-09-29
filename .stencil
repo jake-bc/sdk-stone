@@ -1,0 +1,12 @@
+{
+  "normalStoreUrl": "https://www.jakesmith.us/",
+  "port": 3000,
+  "clientId": "ppl12g25s9yzcsbjilcry0n52wptw77",
+  "accessToken": "fn4z0m6otv0bmc7j7i8aiavvn8ufkne",
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
